@@ -1,5 +1,7 @@
 # Hello in there! 👋
 
+![typing](img/aesthetic-typing.gif)
+
 Little explorer in JavaScript world 🙃
 
 ## Hi, I'm Woody. An front-end developer from Taiwan
