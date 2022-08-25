@@ -4,7 +4,9 @@
 
 Little explorer in JavaScript world 🙃
 
-## Hi, I'm Woody. An front-end developer from Taiwan
+## Woody Chang
+
+**Hi, I'm Woody. An front-end developer from Taiwan**
 
 🔭 I’m currently working on - Writing blogs (about development, life...)
 
