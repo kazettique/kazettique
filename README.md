@@ -18,7 +18,7 @@ Little explorer in JavaScript world 🙃
 
 😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi music lover.
 
-📫 How to reach me: [My Linkedin](https://www.linkedin.com/in/woody-chang-508b38150/), [my blog](https://kazettique.github.io/)
+📫 How to reach me: [My blog](https://kazettique.github.io/)
 
 🌏 Languages: Chinese, English, Japanese
 
