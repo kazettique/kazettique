@@ -1,6 +1,8 @@
 # Hello in there! 👋
 
-![typing](img/aesthetic-typing.gif)
+<div align="center">
+ <img src="img/aesthetic-typing.gif" alt="aesthetic typing">
+</div>
 
 Little explorer in JavaScript world 🙃
 
