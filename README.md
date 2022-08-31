@@ -6,9 +6,9 @@
 
 Little explorer in JavaScript world 🙃
 
-## Woody Chang
+## Midori Inuyama
 
-**Hi, I'm Woody. An front-end developer from Taiwan**
+**Hi, I'm Midori. An front-end developer.**
 
 🔭 I’m currently working on - Writing blogs (about development, life...)
 
