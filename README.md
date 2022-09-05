@@ -22,7 +22,7 @@ Little explorer in JavaScript world 🙃
 
 📫 How to reach me: [My blog](https://kazettique.github.io/)
 
-🌏 Languages: Chinese, English, Japanese
+🌏 Languages: Mandarin, English, Japanese
 
 ## Things I have worked in
 
