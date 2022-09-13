@@ -59,6 +59,12 @@ Little explorer in JavaScript world 🙃
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+## Little Side Projects 🙈
+
+- [Cash Flow Game](https://kazettique.github.io/cash-flow-sheet/)
+- [TS Space](https://ts-space-hcyepl6ep-kazettique.vercel.app)
+- [Telegraph Key](https://kazettique.github.io/telegraph-key/)
+
 ## My GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></p>
