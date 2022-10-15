@@ -18,7 +18,7 @@ Little explorer in JavaScript world 🙃
 
 💻 Current Interest - Learning digital gardening 🪴, writing short story (but not published yet) 😆
 
-😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi music lover.
+😎 Fun facts about me: Minimalist. Apple fan. Lo-fi music lover.
 
 📫 How to reach me: [My blog](https://kazettique.github.io/)
 
@@ -54,16 +54,16 @@ Little explorer in JavaScript world 🙃
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
 
-## Operating System familiar with
+<!-- ## Operating System familiar with
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
 
-## Little Side Projects 🙈
+<!-- ## Little Side Projects 🙈
 
 - [Cash Flow Game](https://kazettique.github.io/cash-flow-sheet/)
 - [TS Space](https://ts-space-hcyepl6ep-kazettique.vercel.app)
-- [Telegraph Key](https://kazettique.github.io/telegraph-key/)
+- [Telegraph Key](https://kazettique.github.io/telegraph-key/) -->
 
 ## My GitHub Stats
 
