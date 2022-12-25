@@ -16,11 +16,11 @@ Little explorer in JavaScript world 🙃
 
 💬 Ask me about - Javascript, Typescript, React
 
-💻 Current Interest - Learning digital gardening 🪴, writing short story (but not published yet) 😆
+💻 Current Interest - Learning digital gardening 🪴, writing short story 😆
 
 😎 Fun facts about me: Minimalist. Apple fan. Lo-fi music lover.
 
-📫 How to reach me: [My blog](https://kazettique.github.io/)
+📫 How to reach me: [My blog](https://kazettique.me/)
 
 🌏 Languages: Mandarin, English, Japanese
 
