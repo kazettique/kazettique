@@ -8,17 +8,17 @@ Little explorer in JavaScript world 🙃
 
 ## Midori Inuyama
 
-**Hi, I'm Midori. An front-end developer.**
+**Hi, I'm Inuyama. A front-end developer.**
 
 🔭 I’m currently working on - Writing blogs (about development, life...)
 
-🌱 I’m currently learning - RxJS, E2E Testing
+🌱 I’m currently learning - Nuxt.js, Vue3
 
 💬 Ask me about - Javascript, Typescript, React
 
 💻 Current Interest - Learning digital gardening 🪴, writing short story 😆
 
-😎 Fun facts about me: Minimalist. Apple fan. Lo-fi music lover.
+😎 Fun facts about me: Minimalist. Apple fan. Lo-fi & house music lover.
 
 📫 How to reach me: [My blog](https://kazettique.me/)
 
