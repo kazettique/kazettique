@@ -1,16 +1,16 @@
 # Hello in there! 👋
 
-<div align="center">
+<!-- <div align="center">
  <img src="img/aesthetic-typing.gif" alt="aesthetic typing">
-</div>
+</div> -->
 
 Little explorer in JavaScript world 🙃
 
-## Midori Inuyama
+## Inori Inuyama
 
 **Hi, I'm Inuyama. A front-end developer.**
 
-🔭 I’m currently working on - Writing blogs (about development, life...)
+🔭 I’m currently working on - Writing blogs, reading mangas
 
 🌱 I’m currently learning - Nuxt.js, Vue3
 
