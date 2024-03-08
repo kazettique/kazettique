@@ -6,9 +6,9 @@
 
 Little explorer in JavaScript world 🙃
 
-## Inori Inuyama
+## Woody Chang
 
-**Hi, I'm Inuyama. A front-end developer.**
+**Hi, I'm Woody. A front-end developer.**
 
 🔭 I’m currently working on - Writing blogs, reading mangas
 
