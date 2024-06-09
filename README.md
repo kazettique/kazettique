@@ -10,9 +10,9 @@ Little explorer in JavaScript world 🙃
 
 **Hi, I'm Woody. A front-end developer.**
 
-🔭 I’m currently working on - Writing blogs, reading mangas
+<!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I’m currently learning - Nuxt.js, Vue3
+🌱 I’m currently learning - Algorithm, data structure, Swift programming language
 
 💬 Ask me about - Javascript, Typescript, React
 
