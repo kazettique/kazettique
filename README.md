@@ -12,11 +12,11 @@ Little explorer in JavaScript world 🙃
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I’m currently learning - Algorithm, data structure, Swift programming language
+🌱 I’m currently learning - Learning data structure & algorithm, practicing on LeetCode.
 
 💬 Ask me about - Javascript, Typescript, React
 
-💻 Current Interest - Learning data structure & algorithm, practicing on LeetCode.
+<!-- 💻 Current Interest - Learning data structure & algorithm, practicing on LeetCode. -->
 
 😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi & house music lover.
 
