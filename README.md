@@ -16,9 +16,9 @@ Little explorer in JavaScript world 🙃
 
 💬 Ask me about - Javascript, Typescript, React
 
-💻 Current Interest - Learning digital gardening 🪴, writing short story 😆
+💻 Current Interest - Learning data structure & algorithm, practicing on LeetCode.
 
-😎 Fun facts about me: Minimalist. Apple fan. Lo-fi & house music lover.
+😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi & house music lover.
 
 📫 How to reach me: [My blog](https://kazettique.me/)
 
