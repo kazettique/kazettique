@@ -8,7 +8,7 @@ Little explorer in JavaScript world 🙃
 
 ## Woody Chang
 
-**Hi, I'm Woody. A front-end developer.**
+**Hi, I'm Woody. A front-end engineer.**
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
