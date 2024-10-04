@@ -12,7 +12,7 @@ Little explorer in JavaScript world 🙃
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I’m currently learning - Learning data structure & algorithm, Next.js, iOS development.
+🌱 I’m currently learning - Learning data structure & algorithm, Next.js, Hugo, iOS app development.
 
 💬 Ask me about - Javascript, Typescript, React
 
