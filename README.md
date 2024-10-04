@@ -26,6 +26,13 @@ Little explorer in JavaScript world 🙃
 
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
 
+## My Side Projects
+
+- [Tailwindcss line clamp no ellipsis plugin](https://github.com/kazettique/tailwindcss-line-clamp-no-ellipsis)
+- [telegraph-key](https://github.com/kazettique/telegraph-key)
+- [suneditor-vue](https://github.com/kazettique/suneditor-vue) (WIP)
+- [asset-management](https://github.com/kazettique/asset-management) (WIP)
+
 ## Front End Skills
 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
