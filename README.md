@@ -14,7 +14,7 @@ Little explorer in JavaScript world 🙃
 
 🌱 I’m currently learning - Learning data structure & algorithm, Next.js, Hugo, iOS app development.
 
-💬 Ask me about - Javascript, Typescript, React
+💬 Ask me about - Javascript, Typescript, React, Vue 3
 
 <!-- 💻 Current Interest - Learning data structure & algorithm, practicing on LeetCode. -->
 
