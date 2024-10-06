@@ -32,6 +32,7 @@ Little explorer in JavaScript world 🙃
 - [telegraph-key](https://github.com/kazettique/telegraph-key)
 - [suneditor-vue](https://github.com/kazettique/suneditor-vue) (WIP)
 - [asset-management](https://github.com/kazettique/asset-management) (WIP)
+- [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad) (WIP)
 
 ## Front End Skills
 
