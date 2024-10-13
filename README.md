@@ -12,27 +12,71 @@ Little explorer in JavaScript world 🙃
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I’m currently learning - Learning data structure & algorithm, Next.js, Hugo, SWIFT.
+🌱 I’m currently learning - Learning data structure & algorithm, Next.js, Hugo, Swift.
 
-💬 Ask me about - Javascript, Typescript, React, Vue 3
+💬 Ask me about - Javascript, Typescript, React, Vue3
 
-<!-- 💻 Current Interest - Learning data structure & algorithm, practicing on LeetCode. -->
+💻 Current Interest - Docker & Swift.
 
 😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi & house music lover.
 
 📫 How to reach me: [My blog](https://kazettique.me/)
 
-🌏 Languages: Mandarin, English, Japanese
+🌏 Languages:
+
+- Chinese (native level)
+- English (conversational level)
+- Japanese (conversational level)
+- Spanish (a little bit)
 
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
 
+## Community Contributions
+
+### In Progress
+
+- JavaScript Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+
+### Todos
+
+- TypeScript Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- CSS Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- SASS Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- HTML Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+<!-- - jQuery Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+- git Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- json Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+<!-- - docker Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - sql Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - Swift Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - yaml Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - toml Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+- JavaScript Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- CSS Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+
 ## My Side Projects
 
-- [Tailwindcss line clamp no ellipsis plugin](https://github.com/kazettique/tailwindcss-line-clamp-no-ellipsis)
-- [telegraph-key](https://github.com/kazettique/telegraph-key)
-- [suneditor-vue](https://github.com/kazettique/suneditor-vue) (WIP)
-- [asset-management](https://github.com/kazettique/asset-management) (WIP)
-- [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad) (WIP)
+### Tailwindcss plugin (tailwindcss-line-clamp-no-ellipsis)
+
+- Description: A tailwind plugin for line clamp without ellipsis.
+- Repository: [kazettique/tailwindcss-line-clamp-no-ellipsis: A tailwind plugin for line clamp without ellipsis.](https://github.com/kazettique/tailwindcss-line-clamp-no-ellipsis)
+- NPM Package: [tailwindcss-line-clamp-no-ellipsis - npm](https://www.npmjs.com/package/tailwindcss-line-clamp-no-ellipsis)
+
+### Telegraph Key
+
+- Description: A telegraph key replication on the web.
+- Repository: [kazettique/telegraph-key: A telegraph key replication on the web.](https://github.com/kazettique/telegraph-key)
+- Site: <https://kazettique.github.io/telegraph-key/>
+
+---
+
+### In Progress
+
+- [suneditor-vue](https://github.com/kazettique/suneditor-vue)
+- [asset-management](https://github.com/kazettique/asset-management)
+- [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad)
+
+### Todos
 
 ## Front End Skills
 
@@ -76,7 +120,6 @@ Little explorer in JavaScript world 🙃
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-
 <!-- ## Operating System familiar with
 
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
@@ -92,4 +135,4 @@ Little explorer in JavaScript world 🙃
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></p>
 
- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></p>
