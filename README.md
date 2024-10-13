@@ -35,24 +35,25 @@ Little explorer in JavaScript world 🙃
 
 ### In Progress
 
-- JavaScript Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- JavaScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 
 ### Todos
 
-- TypeScript Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- CSS Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- SASS Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- HTML Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-<!-- - jQuery Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
-- git Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- json Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-<!-- - docker Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
-<!-- - sql Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
-<!-- - Swift Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
-<!-- - yaml Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
-<!-- - toml Translation (Tradition Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+- TypeScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- CSS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- SASS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- HTML Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- git Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- json Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - JavaScript Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - CSS Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+
+<!-- - jQuery Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - docker Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - sql Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - Swift Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - yaml Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - toml Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
 
 ## My Side Projects
 
