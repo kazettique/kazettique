@@ -4,9 +4,7 @@
  <img src="img/aesthetic-typing.gif" alt="aesthetic typing">
 </div> -->
 
-Little explorer in JavaScript world 🙃
-
-## Woody Chang
+Adventure in JavaScript world everyday. 🙂
 
 **Hi, I'm Woody. A front-end engineer.**
 
