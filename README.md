@@ -14,7 +14,7 @@ Adventure in JavaScript world everyday. 🙂
 
 💬 Ask me about - Javascript, Typescript, React, Vue3
 
-💻 Current Interest - Docker & Swift.
+💻 Current Interest - Node.js. Docker, Swift.
 
 😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi & house music lover.
 
