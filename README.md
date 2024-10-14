@@ -34,10 +34,12 @@ Adventure in JavaScript world everyday. 🙂
 ### In Progress
 
 - JavaScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+  - Pull Request: [[javascript/zh-tw] translate by kazettique · Pull Request #5138 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5138#event-14619848487)
+- TypeScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+  - Pull Request: [[typescript/zh-tw] translate by kazettique · Pull Request #5142 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5142)
 
 ### Todos
 
-- TypeScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - CSS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - SASS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - HTML Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
