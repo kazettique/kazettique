@@ -45,8 +45,8 @@ Adventure in JavaScript world everyday. 🙂
 - HTML Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - git Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 - json Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- JavaScript Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- CSS Japanese Translation: [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- JavaScript Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+- CSS Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
 
 <!-- - jQuery Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
 <!-- - docker Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
