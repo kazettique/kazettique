@@ -38,16 +38,15 @@ Adventure in JavaScript world everyday. 🙂
 - TypeScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
   - Pull Request: [[typescript/zh-tw] translate by kazettique · Pull Request #5142 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5142)
 
-### Todos
+<!-- ### Todos -->
 
-- CSS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- SASS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- HTML Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- git Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- json Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- JavaScript Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-- CSS Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-
+<!-- - CSS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - SASS Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - HTML Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - git Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - json Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - JavaScript Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
+<!-- - CSS Translation (Japanese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
 <!-- - jQuery Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
 <!-- - docker Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
 <!-- - sql Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com) -->
@@ -77,7 +76,12 @@ Adventure in JavaScript world everyday. 🙂
 - [asset-management](https://github.com/kazettique/asset-management)
 - [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad)
 
-### Todos
+<!-- ### Todos -->
+
+## Learning Course
+
+- [[Udemy] Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/)
+- [[Udemy] iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/)
 
 ## Front End Skills
 
