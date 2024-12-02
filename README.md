@@ -4,39 +4,40 @@
  <img src="img/aesthetic-typing.gif" alt="aesthetic typing">
 </div> -->
 
-Adventure in JavaScript world everyday. 🙂
+Adventure in JavaScript world. 🙂
 
-**Hi, I'm Woody. A front-end engineer.**
+**Hi, I'm Woody Chang. A frontend engineer.**
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I’m currently learning - Learning data structure & algorithm, Next.js, Hugo, Swift.
+🌱 I'm currently learning - Learning DSA, Next.js, Hugo, Swift.
 
-💬 Ask me about - Javascript, Typescript, React, Vue3
+<!-- 💬 Ask me about - Javascript, Typescript, React, Vue3 -->
 
-💻 Current Interest - Node.js. Docker, Swift.
+💻 Current Interest - Swift, Hugo, Three.js.
 
-😎 Fun facts about me: Minimalist. Apple fan boy. Lo-fi & house music lover.
+😎 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
 
-📫 How to reach me: [My blog](https://kazettique.me/)
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique)
 
 🌏 Languages:
 
-- Chinese (native level)
-- English (conversational level)
-- Japanese (conversational level)
-- Spanish (a little bit)
-
-<!-- badges: https://github.com/Ileriayo/markdown-badges -->
+- Japanese (conversational, JLPT N1)
+- English (conversational, TOEIC 790)
+- Mandarin Chinese (native)
+- Spanish (elementary)
 
 ## Community Contributions
 
-### In Progress
+- [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
+  - JavaScript Translation (Traditional Chinese):
+    - Pull Request: [[javascript/zh-tw] translate by kazettique · Pull Request #5138 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5138#event-14619848487)
+    - Site: [Learn JavaScript in Y Minutes](https://learnxinyminutes.com/docs/zh-tw/javascript-tw/)
+  - TypeScript Translation (Traditional Chinese):
+    - Pull Request: [[typescript/zh-tw] translate by kazettique · Pull Request #5142 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5142)
+    - Site: [Learn TypeScript in Y Minutes](https://learnxinyminutes.com/docs/zh-tw/typescript-tw/)
 
-- JavaScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-  - Pull Request: [[javascript/zh-tw] translate by kazettique · Pull Request #5138 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5138#event-14619848487)
-- TypeScript Translation (Traditional Chinese): [Learn X in Y Minutes: Scenic Programming Language Tours](https://learnxinyminutes.com)
-  - Pull Request: [[typescript/zh-tw] translate by kazettique · Pull Request #5142 · adambard/learnxinyminutes-docs](https://github.com/adambard/learnxinyminutes-docs/pull/5142)
+<!-- ### In Progress -->
 
 <!-- ### Todos -->
 
@@ -70,47 +71,51 @@ Adventure in JavaScript world everyday. 🙂
 
 ---
 
-### In Progress
+<!-- ### In Progress
 
 - [suneditor-vue](https://github.com/kazettique/suneditor-vue)
 - [asset-management](https://github.com/kazettique/asset-management)
-- [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad)
+- [hugo-theme-legal-pad](https://github.com/kazettique/hugo-theme-legal-pad) -->
 
 <!-- ### Todos -->
 
-## Learning Course
+## Training
 
-- [[Udemy] Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/)
-- [[Udemy] iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/)
+- [[Udemy] Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/) (Japanese)
+- [[Udemy] iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/) (English)
+- [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (Mandarin Chinese)
 
-## Front End Skills
+<!-- badges: https://github.com/Ileriayo/markdown-badges -->
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## Frontend Skills
+
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![vuejs](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
-![puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
-![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+![jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Zod](https://img.shields.io/badge/zod-%233068b7.svg?style=for-the-badge&logo=zod&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black)
+![puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=for-the-badge&logo=Puppeteer&logoColor=white)
+![hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## Back End Skills
+## Backend Skills
 
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Nuxtjs](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![dot net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-## Other Skills
-
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
 ## Tools
 
@@ -120,10 +125,13 @@ Adventure in JavaScript world everyday. 🙂
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![webStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white)
-![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![GitHub action](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 <!-- ## Operating System familiar with
 
@@ -136,7 +144,7 @@ Adventure in JavaScript world everyday. 🙂
 - [TS Space](https://ts-space-hcyepl6ep-kazettique.vercel.app)
 - [Telegraph Key](https://kazettique.github.io/telegraph-key/) -->
 
-## My GitHub Stats
+## GitHub Stats
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></p>
 
