@@ -1,7 +1,7 @@
 # Hello in there! 👋
 
-<div align="center" style="margin: 32px;">
- <img src="img/hello-calligraphy.jpg" alt="profile cover" style="width: 500px;">
+<div align="center">
+ <img src="img/hello-calligraphy.jpg" alt="profile cover" style="width: 500px; margin: 24px; box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;">
 </div>
 
 Adventure in JavaScript world. 🙂
