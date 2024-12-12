@@ -1,7 +1,7 @@
 # Hello in there! 👋
 
-<div align="center">
- <img src="img/fe-calligraphy.jpg" alt="aesthetic typing">
+<div align="center" style="width: 500px;">
+ <img src="img/hello-calligraphy.jpg" alt="aesthetic typing">
 </div>
 
 Adventure in JavaScript world. 🙂
