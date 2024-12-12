@@ -18,7 +18,7 @@ Adventure in JavaScript world. 🙂
 
 😎 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique)<!--, [X (Twitter)](https://x.com/kazettique) -->
+<!-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique) -->
 
 🌏 Languages:
 
