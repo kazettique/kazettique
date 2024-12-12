@@ -1,8 +1,8 @@
 # Hello in there! 👋
 
-<!-- <div align="center">
- <img src="img/aesthetic-typing.gif" alt="aesthetic typing">
-</div> -->
+<div align="center">
+ <img src="img/fe-calligraphy.jpg" alt="aesthetic typing">
+</div>
 
 Adventure in JavaScript world. 🙂
 
