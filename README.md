@@ -18,12 +18,12 @@ Adventure in JavaScript world. 🙂
 
 😎 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
 
-📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique)
+📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique)<!--, [X (Twitter)](https://x.com/kazettique) -->
 
 🌏 Languages:
 
-- Japanese (conversational, JLPT N1)
-- English (conversational, TOEIC 790)
+- Japanese (proficient, JLPT N1)
+- English (proficient, TOEIC 790)
 - Mandarin Chinese (native)
 - Spanish (elementary)
 
@@ -68,6 +68,12 @@ Adventure in JavaScript world. 🙂
 - Description: A telegraph key replication on the web.
 - Repository: [kazettique/telegraph-key: A telegraph key replication on the web.](https://github.com/kazettique/telegraph-key)
 - Site: <https://kazettique.github.io/telegraph-key/>
+
+### Cash Flow Game
+
+- Description: Player Sheet for Cash Flow Board Game
+- Repository: [kazettique/cash-flow-sheet: Player Sheet for Cash Flow Board Game](https://github.com/kazettique/cash-flow-sheet)
+- Site: <https://kazettique.github.io/cash-flow-sheet/>
 
 ---
 
@@ -132,17 +138,6 @@ Adventure in JavaScript world. 🙂
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
-<!-- ## Operating System familiar with
-
-![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
-![windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) -->
-
-<!-- ## Little Side Projects 🙈
-
-- [Cash Flow Game](https://kazettique.github.io/cash-flow-sheet/)
-- [TS Space](https://ts-space-hcyepl6ep-kazettique.vercel.app)
-- [Telegraph Key](https://kazettique.github.io/telegraph-key/) -->
 
 ## GitHub Stats
 
