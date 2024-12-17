@@ -4,9 +4,9 @@
  <img src="img/hello-calligraphy.jpg" alt="profile cover" style="width: 500px; margin: 24px; box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;">
 </div>
 
-Adventure in JavaScript world. 🙂
+> An explorer in JavaScript world. 🙂
 
-**Hi, I'm Woody Chang. A frontend engineer.**
+Hello, I'm Woody Chang. A frontend engineer. **Actively seeking job in Japan.**
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
@@ -20,12 +20,7 @@ Adventure in JavaScript world. 🙂
 
 <!-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique) -->
 
-🌏 Languages:
-
-- Japanese (proficient, JLPT N1)
-- English (proficient, TOEIC 790)
-- Mandarin Chinese (native)
-- Spanish (elementary)
+🌏 Languages: Japanese (proficient, JLPT N1), English (proficient, TOEIC 790), Mandarin Chinese (native), Spanish (elementary)
 
 ## Community Contributions
 
