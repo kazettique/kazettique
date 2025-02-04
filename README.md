@@ -6,7 +6,7 @@
 
 > An explorer in JavaScript world. 🙂
 
-Hello, I'm Woody Chang. A frontend engineer. **Actively seeking job in Japan.**
+Hello, I'm Woody Chang. A frontend engineer.
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
