@@ -10,7 +10,7 @@ Hello, I'm Woody Chang. A frontend engineer.
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I'm currently learning - Learning DSA, Next.js, Hugo, Swift.
+🌱 I'm currently learning - SolidJS, TanStack Router.
 
 <!-- 💬 Ask me about - Javascript, Typescript, React, Vue3 -->
 
