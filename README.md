@@ -82,6 +82,7 @@ Hello, I'm Woody Chang. A frontend engineer.
 
 ## Training
 
+- [JavaScript DSA & LEETCODE for Coding Interviews](https://www.udemy.com/share/104pm23@1dRf4eImJgBlpbLEj1ZYpHxUYihsRuHi7ZEM3w6L7gAbOmGutq8wvf4MMuKTdPSR/)
 - [[Udemy] Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/) (Japanese)
 - [[Udemy] iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/) (English)
 - [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (Mandarin Chinese)
