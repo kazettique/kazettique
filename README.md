@@ -4,23 +4,26 @@
  <img src="img/hello-calligraphy.jpg" alt="profile cover" style="width: 500px; margin: 24px; box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;">
 </div>
 
-> An explorer in JavaScript world. 🙂
-
-Hello, I'm Woody Chang. A frontend engineer.
+Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. 🚀🧑🏻‍💻
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I'm currently learning - SolidJS, TanStack Router.
+🌱 I'm currently learning - Vim, Hugo
 
 <!-- 💬 Ask me about - Javascript, Typescript, React, Vue3 -->
 
-💻 Current Interest - Swift, Hugo, Three.js.
+💻 Current Interest - Swift, Hugo, Three.js., Blender
 
 😎 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
 
 <!-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique) -->
 
-🌏 Languages: Japanese (proficient, JLPT N1), English (proficient, TOEIC 790), Mandarin Chinese (native), Spanish (elementary)
+🌏 Languages:
+
+- Japanese (proficient, JLPT N1)
+- English (proficient, TOEIC 790)
+- Mandarin Chinese (native)
+- Spanish (elementary)
 
 ## Community Contributions
 
@@ -139,4 +142,8 @@ Hello, I'm Woody Chang. A frontend engineer.
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></p>
+
+## My Roadmap Progress
+
+[![roadmap.sh](https://roadmap.sh/card/tall/68075436e73fd616069cab16?variant=dark)](https://roadmap.sh)
