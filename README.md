@@ -85,14 +85,15 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 
 ## Training
 
-- [JavaScript DSA & LEETCODE for Coding Interviews](https://www.udemy.com/share/104pm23@1dRf4eImJgBlpbLEj1ZYpHxUYihsRuHi7ZEM3w6L7gAbOmGutq8wvf4MMuKTdPSR/) (English)
-- [[Udemy] Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/) (Japanese)
-- [[Udemy] iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/) (English)
-- [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (Mandarin Chinese)
+- \[Udemy\] [JavaScript DSA & LEETCODE for Coding Interviews](https://www.udemy.com/share/104pm23@1dRf4eImJgBlpbLEj1ZYpHxUYihsRuHi7ZEM3w6L7gAbOmGutq8wvf4MMuKTdPSR/) (EN)
+- \[Udemy\] [Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/) (JA)
+- \[Udemy\] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/) (EN)
+- \[Yotta\] [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (ZH-TW)
+- \[Udemy\] [Figma UI UX Design Essentials](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) (EN)
 
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
 
-## Frontend Skills
+## Frontend Stacks
 
 ![typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -113,7 +114,7 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 ![hugo](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-## Backend Skills
+## Backend Stacks
 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
