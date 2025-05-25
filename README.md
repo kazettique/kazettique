@@ -8,13 +8,13 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 I'm currently learning - Vim, Hugo
+🌱 Currently learning - Vim, Hugo, [GreatFrontEnd](https://www.greatfrontend.com), [Frontend Roadmap](https://roadmap.sh/frontend)
 
 <!-- 💬 Ask me about - Javascript, Typescript, React, Vue3 -->
 
-💻 Current Interest - Swift, Hugo, Three.js., Blender
+💻 Current Interest - Swift, Hugo Theme, Three.js., Blender
 
-😎 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
+🦉 Hobbies: Calligraphy (Gothic, Blackletter, left-handed), Reading mangas
 
 <!-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/kazettique), [X (Twitter)](https://x.com/kazettique) -->
 
@@ -119,9 +119,9 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![dot net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+<!-- ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) -->
+<!-- ![dot net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) -->
+<!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
 
 ## Tools
 
