@@ -148,3 +148,7 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. ðŸ
 ## My Roadmap Progress
 
 [![roadmap.sh](https://roadmap.sh/card/tall/68075436e73fd616069cab16?variant=dark)](https://roadmap.sh)
+
+## Random Dev Quote
+
+![random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
