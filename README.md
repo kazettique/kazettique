@@ -85,12 +85,12 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 
 ## Training
 
-- \[Udemy\][DONE] [JavaScript DSA & LEETCODE for Coding Interviews](https://www.udemy.com/share/104pm23@1dRf4eImJgBlpbLEj1ZYpHxUYihsRuHi7ZEM3w6L7gAbOmGutq8wvf4MMuKTdPSR/) (EN)
-- \[Udemy\][DONE] [Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/) (JA)
-- \[Udemy\][WIP] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/) (EN)
-- \[Yotta\][DONE] [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (ZH-TW)
-- \[Udemy\][WIP] [Figma UI UX Design Essentials](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/) (EN)
-- \[W3School\][WIP] [Python Tutorial](https://www.w3schools.com/python/default.asp) (EN)
+- \[DONE\]\[Udemy\]\[EN\] [JavaScript DSA & LEETCODE for Coding Interviews](https://www.udemy.com/share/104pm23@1dRf4eImJgBlpbLEj1ZYpHxUYihsRuHi7ZEM3w6L7gAbOmGutq8wvf4MMuKTdPSR/)
+- \[DONE\]\[Udemy\]\[JA\] [Node.js Course (Node.js + Express + MySQL で作る 安全な Webアプリケーション 実践講座)](https://www.udemy.com/share/105z4Q3@P3NUfxq5ZNEWc-nD8qk6Xnc2Fit-n6SGtU8VsaATr5FpmBiEQdO3wIu-27Ihsb9t/)
+- \[WIP\]\[Udemy\]\[EN\] [iOS & Swift - The Complete iOS App Development Bootcamp](https://www.udemy.com/share/101Wsa3@5J-4IOg19dFvBt-HqMU3wWETTClvhYBqBZBDpC1YI1A4qFReAw_ohYIxgwSxHzA6/)
+- \[DONE\]\[Yotta\]\[ZH\] [Learning Calligraphy (筆尖溫度｜輕鬆學會「哥德藝術字」)](https://www.yottau.com.tw/course/intro/702#intro) (ZH-TW)
+- \[WIP\]\[Udemy\]\[EN\] [Figma UI UX Design Essentials](https://www.udemy.com/course/figma-ux-ui-design-user-experience-tutorial-course/)
+- \[WIP\]\[W3School\]\[EN\] [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 <!-- badges: https://github.com/Ileriayo/markdown-badges -->
 
@@ -120,6 +120,7 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <!-- ![csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) -->
 <!-- ![dot net](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) -->
 <!-- ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) -->
@@ -140,16 +141,14 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## GitHub Stats
+## My Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></p>
+<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kazettique&show_icons=true&locale=en&layout=compact" alt="kazettique" /></div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></p>
+<br >
 
-## My Roadmap Progress
+<div><img align="center" src="https://github-readme-stats.vercel.app/api?username=kazettique&show_icons=true&locale=en" alt="kazettique" /></div>
+
+<br >
 
 [![roadmap.sh](https://roadmap.sh/card/tall/68075436e73fd616069cab16?variant=dark)](https://roadmap.sh)
-
-## Random Dev Quote
-
-![random dev quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
