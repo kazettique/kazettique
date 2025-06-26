@@ -8,7 +8,7 @@ Hello, I'm Woody Chang. A frontend engineer. An explorer in JavaScript world. �
 
 <!-- 🔭 I’m currently working on - Writing blogs, reading mangas -->
 
-🌱 Currently learning - Vim, Hugo, [GreatFrontEnd](https://www.greatfrontend.com), [Frontend Roadmap](https://roadmap.sh/frontend)
+🌱 Currently learning - Vim, Hugo, [GreatFrontEnd](https://www.greatfrontend.com), [JavaScript Roadmap](https://roadmap.sh/javascript), [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 <!-- 💬 Ask me about - Javascript, Typescript, React, Vue3 -->
 
